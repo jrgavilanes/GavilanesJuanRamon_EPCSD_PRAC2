@@ -1,0 +1,15 @@
+/home/janrax/Escritorio/Code/epcsd-spring-2023-productcatalog/src/main/java/edu/uoc/epcsd/productcatalog/controllers/ProductController.java
+/home/janrax/Escritorio/Code/epcsd-spring-2023-productcatalog/src/main/java/edu/uoc/epcsd/productcatalog/ProductCatalogApplication.java
+/home/janrax/Escritorio/Code/epcsd-spring-2023-productcatalog/src/main/java/edu/uoc/epcsd/productcatalog/kafka/ProductMessage.java
+/home/janrax/Escritorio/Code/epcsd-spring-2023-productcatalog/src/main/java/edu/uoc/epcsd/productcatalog/controllers/CategoryController.java
+/home/janrax/Escritorio/Code/epcsd-spring-2023-productcatalog/src/main/java/edu/uoc/epcsd/productcatalog/entities/CatalogElement.java
+/home/janrax/Escritorio/Code/epcsd-spring-2023-productcatalog/src/main/java/edu/uoc/epcsd/productcatalog/repositories/CategoryRepository.java
+/home/janrax/Escritorio/Code/epcsd-spring-2023-productcatalog/src/main/java/edu/uoc/epcsd/productcatalog/entities/Category.java
+/home/janrax/Escritorio/Code/epcsd-spring-2023-productcatalog/src/main/java/edu/uoc/epcsd/productcatalog/entities/Product.java
+/home/janrax/Escritorio/Code/epcsd-spring-2023-productcatalog/src/main/java/edu/uoc/epcsd/productcatalog/kafka/KafkaConstants.java
+/home/janrax/Escritorio/Code/epcsd-spring-2023-productcatalog/src/main/java/edu/uoc/epcsd/productcatalog/kafka/KafkaTopicConfig.java
+/home/janrax/Escritorio/Code/epcsd-spring-2023-productcatalog/src/main/java/edu/uoc/epcsd/productcatalog/repositories/ProductItemRepository.java
+/home/janrax/Escritorio/Code/epcsd-spring-2023-productcatalog/src/main/java/edu/uoc/epcsd/productcatalog/repositories/ProductRepository.java
+/home/janrax/Escritorio/Code/epcsd-spring-2023-productcatalog/src/main/java/edu/uoc/epcsd/productcatalog/kafka/KafkaProducerConfig.java
+/home/janrax/Escritorio/Code/epcsd-spring-2023-productcatalog/src/main/java/edu/uoc/epcsd/productcatalog/entities/ProductItem.java
+/home/janrax/Escritorio/Code/epcsd-spring-2023-productcatalog/src/main/java/edu/uoc/epcsd/productcatalog/entities/ItemStatus.java
